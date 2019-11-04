@@ -1,5 +1,5 @@
 {
-  "name": "@pazzavlad/request",
+  "name": "@sempre/request",
   "version": "1.0.0",
   "description": "Request with proxy, dev cache, delay and other stuff.",
   "main": "index.js",
